@@ -11,6 +11,7 @@
 <?php wp_head(); ?>
 </head>
 <body>
+	<?php wp_body_open(); ?>
     <div id="app">
 <header class="cd-header">
 		<div class="header-wrapper">
